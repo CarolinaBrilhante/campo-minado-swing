@@ -2,5 +2,5 @@ package br.com.arjos.cm.modelo;
 
 public enum CampoEvento {
 
-	ABRIR, MARCAR, DESMARCAR, EXPLODRIR
+	ABRIR, MARCAR, DESMARCAR, EXPLODIR, REINICIAR
 }
